@@ -484,7 +484,7 @@ html {
  .tsb-nav-item a,
  .tsb-dropdown-item,
  .closebtn {
-   color: #C8C8C8 !important;
+   color: #707070 !important;
  }
  
  
@@ -889,7 +889,7 @@ html {
  .footer-link,
  .footer-link a {
    /* color: #800300 !important; */
-   color: #C8C8C8 !important;
+   color: #707070 !important;
    font-family: "ministry","helvetica neue", sans-serif;
    font-style: normal;
    font-weight: 300;
@@ -1000,7 +1000,7 @@ html {
      .tsb-h3,
      .tsb-figure-caption,
      .tsb-figure-caption a {
-       font-size: .6rem;
+       font-size: .75rem;
      }
  }
  
@@ -1012,7 +1012,7 @@ html {
      .tsb-h3,
      .tsb-figure-caption,
      .tsb-figure-caption a {
-     font-size: .7rem;
+     font-size: .8rem;
    }
  }
  
